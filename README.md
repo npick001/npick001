@@ -1,4 +1,4 @@
-Nick Pickering
+# Nick Pickering
 
 Modeling and Simulation Engineering
 
