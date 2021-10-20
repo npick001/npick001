@@ -3,8 +3,8 @@
 I like learning and using new methods for problem solving and computational methods
 
 Modeling and Simulation Engineering
-Minors: Physics
-
+Minors: 
+        Physics
         Computer Science
 
 Grad date: May 2024
