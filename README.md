@@ -3,10 +3,11 @@
 I like learning and using new methods for problem solving and computational methods
 
 Modeling and Simulation Engineering
-Minors: 
-        Physics &
-        Computer Science
+
+Concentration: Advanced Simulation Techniques
+
+Minor: Computer Science
 
 Grad date: May 2024
 
-Using GitHub I would like to create Discord bots, while learning JavaScript and coding with my friends.
+Using GitHub I will be making a whole bunch of random projects that I want to work on.
