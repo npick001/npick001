@@ -2,7 +2,7 @@
 
 I like learning and using new methods for problem solving and computational methods
 
-Modeling and Simulation Engineering
+Major: Modeling and Simulation Engineering
 
 Concentration: Advanced Simulation Techniques
 
