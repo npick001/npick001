@@ -1,6 +1,6 @@
 # Nick Pickering
 
-I like learning and using new methods for problem solving and computational methods
+I enjoy learning and applying various computational methods for use in problem solving.
 
 Major: Modeling and Simulation Engineering
 
@@ -10,4 +10,4 @@ Minor: Computer Science
 
 Grad date: May 2024
 
-Using GitHub I will be making a whole bunch of random projects that I want to work on.
+I will be working on whatever projects fulfill my need to problem solve constantly.
