@@ -10,4 +10,4 @@ Minor: Computer Science
 
 Grad date: May 2024
 
-I will be working on whatever projects fulfill my need to problem solve constantly.
+I will be working on whatever projects fulfill my need to problem solve.
